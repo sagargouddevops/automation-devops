@@ -1,0 +1,2 @@
+ Pull is an mechanism for downloading the updated changes from remote repository branch to local repository branch.
+
